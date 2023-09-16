@@ -1,9 +1,6 @@
 package org.example;
 
 import java.util.ArrayList;
-import java.util.Scanner;
-
-import org.example.HelperClass.*;
 
 import static org.example.HelperClass.*;
 
